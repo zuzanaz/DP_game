@@ -1,0 +1,163 @@
+﻿2,trvalý pob_t
+2,kob_la
+1,b_ftek
+1,b_ceps
+2,Zb_něk
+2,přeb_tek
+2,neob_čejně
+2,ub_tování
+1,b_otop
+2,zab_dlená
+2,ab_
+2,b_strozraký
+2,b_dlit
+2,zab_dlit
+2,ob_čejný
+2,spolub_dlící
+2,b_sta (druh sochy)
+2,úb_tek
+2,ab_ch
+2,pob_t
+2,zb_tek
+1,b_cí souprava
+2,B_střice
+1,b_ftek
+1,komb_néze
+2,město dob_to
+1,nab_tá baterie
+2,b_strý
+2,příb_tek
+1,b_žuterie
+1,pob_hal
+2,neob_dlený
+2,ob_dlit
+2,náb_tkový
+2,zab_dlený
+2,Přib_slav
+1,hřb_tov
+2,b_tový architekt
+2,ob_vatelka
+2,starob_lost
+1,b_osféra
+1,srdce dob_lo
+2,nab_té znalosti
+1,b_laterálně
+1,baterie dob_ta
+1,stab_lní
+2,b_telný
+2,lab_rint
+2,zb_lé sušenky
+1,ozdob_t
+1,vyb_tá baterie
+2,odb_t zboží
+2,Bab_lon
+2,nab_tí účinnosti
+1,hb_tě
+1,zab_ják
+1,způsob_lý
+1,přib_tý hřebík
+1,b_kiny
+2,ragb_ový míč
+1,starob_nec
+2,peníze nazb_t
+1,oblíb_l
+2,nab_té zkušenosti
+1,způsob_t
+1,přiváb_lo
+1,spotřeb_tel
+2,dob_vačný
+2,b_rokracie
+2,dob_tá kořist
+2,Lib_e
+1,nerozb_tný
+2,nab_tý majetek
+2,ledab_le
+1,zvony odb_ly
+2,b_tí (existence)
+2,nezb_tně
+1,způsob_lost
+2,bab_ka
+2,starob_lý
+1,vyrob_t
+1,b_det
+1,chlub_t se
+1,násob_t
+2,zb_lý
+1,slíb_t
+2,b_tná
+1,b_stro
+2,aut ub_lo
+1,zab_tá slepice
+1,zdvojnásob_l
+1,skloub_t
+2,nedob_tná pevnost
+2,ob_dlí
+1,osob_tý
+1,zb_l sourozence
+2,přib_lo práce
+1,b_lion
+2,svéb_tný
+2,ledab_le
+1,ob_lovina
+1,b_bliografie
+2,odb_l si trest
+1,zásob_t
+2,odb_tiště
+2,derb_
+1,b_cykl
+1,políb_t
+1,b_tost
+2,nab_té vědomosti
+2,Kob_lisy
+1,b_č
+1,zlob_vý
+2,ab_chom
+2,kdyb_
+2,nadb_tek
+2,zb_tek
+2,ob_čej
+2,dob_tek
+1,krab_ce
+1,násob_lka
+1,b_ble
+2,b_linky
+2,b_střina
+2,úb_tek
+2,dob_vatel
+2,náb_tek
+1,b_blický
+2,B_strouška
+1,mob_lní
+1,b_tva
+2,výdob_tek
+1,nab_tá zbraň
+2,dob_tče
+1,bab_čka
+2,přeb_tek
+2,ub_tovat
+2,zb_střit
+1,Rob_nson
+2,nezb_tnost
+1,b_skup
+2,ub_lo starostí
+2,blahob_t
+1,elektromob_l
+1,rozb_tá sklenice
+1,krupob_tí
+1,b_tva
+1,zab_jačka
+1,b_zon
+1,trub_ce
+1,b_nární
+1,zatroub_t
+1,zasnoub_t
+2,ob_dlí
+1,ob_lí
+1,rozzlob_l
+2,zb_tečné
+1,b_ilogie
+2,blahob_t
+1,Pardub_ce
+1,hob_t
+2,živob_tí
+1,kab_na

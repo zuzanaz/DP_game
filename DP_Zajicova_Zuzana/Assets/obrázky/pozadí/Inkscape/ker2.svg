@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4193"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ker2.svg">
+  <defs
+     id="defs4195" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="154.7443"
+     inkscape:cy="524.38175"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4198">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#009800;fill-opacity:1;fill-rule:evenodd;stroke:#005c00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 128.57143,585.21935 c -6.30521,14.29837 52.2619,10.95238 63.92857,10 9.30655,0.0604 66.71973,6.39441 67.85714,-15.35715 1.44307,-19.58333 -2.59166,-31.30952 -13.57143,-35.71428 -9.92231,-3.48949 -18.61907,1.54991 -23.92857,8.21428 6.17796,-9.35195 7.60219,-18.0248 7.14286,-26.42857 -0.42199,-4.45642 -9.99472,-5.42283 -15.35714,4.64286 -3.61856,-7.67348 -8.08862,-3.42605 -12.14286,-5 6.14249,-25.22587 -13.14763,-36.76963 -26.42857,-36.42857 -18.42251,1.17353 -45.39224,24.8609 -41.78572,46.42857 2.08108,9.61422 0.818,18.40052 8.57143,22.85714 -2.30895,1.92972 -6.00483,1.08557 -5.71428,8.21429 0.48788,5.929 2.6341,8.54132 5,10.71428 -11.91825,-1.41428 -11.61,3.84044 -13.57143,7.85715 z"
+       id="path4752"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:export-filename="G:\obrázky\pozadí\ker2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#008200;fill-rule:evenodd;stroke:#008200;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 175,540.21935 c -17.17307,2.63334 -17.05236,13.70268 -15,25.71428 -4.90595,6.50731 -4.18044,10.60114 -2.5,14.28572 4.23426,5.81415 10.674,1.94141 15,-2.14286 0.37789,5.57444 0.10655,10.44607 17.14286,9.64286 8.04779,0.0292 9.71569,-4.90367 13.92857,-7.85715 3.77448,6.82076 14.29233,6.89815 26.07143,5.71429 7.18796,-0.50565 15.87353,-6.32241 15,-15.35714 -1.67944,-16.76842 -22.25,-12.40403 -27.5,-6.78572 -0.0687,-6.89625 -5.62113,-8.73068 -11.78572,-10 4.29961,-0.0647 7.98614,-2.75944 5.35715,-8.21428 -2.41508,-3.5373 -12.50597,-3.86308 -17.5,-0.35715 -4.89475,-4.68542 -10.98157,-5.47771 -18.21429,-4.64285 z"
+       id="path4754"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <ellipse
+       style="opacity:1;fill:#008200;fill-opacity:1;stroke:#008200;stroke-width:1;stroke-miterlimit:4.19999981;stroke-dasharray:none;stroke-opacity:1"
+       id="path4756"
+       cx="541.25104"
+       cy="106.64349"
+       rx="11.071428"
+       ry="17.321428"
+       transform="matrix(0.48506704,0.87447697,-0.87447697,0.48506704,0,0)" />
+  </g>
+</svg>

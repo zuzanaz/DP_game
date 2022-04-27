@@ -1,0 +1,92 @@
+2,vzl_k
+2,vzl_kat
+2,rozpl_nout se
+1,kriminal_sta
+2,l_že
+2,vzl_kání
+2,pl_nný
+2,vzl_kot
+2,pl_š
+1,kapal_na
+2,vzl_ky
+1,Král_cký Sněžník
+2,ml_nářka
+2,nesl_šně
+2,pel_něk
+1,l_teratura
+2,pl_šový medvídek
+2,vypl_nout
+1,vl_vný muž
+1,l_tr
+1,krasl_ce
+2,pl_noměr
+2,pol_kat
+2,pl_nule
+2,pl_nně
+2,spol_kat
+2,pol_kat
+1,perl_vá
+2,spl_nout
+2,pl_novod
+1,Vel_konoce
+2,pl_nout
+2,ml_nář
+1,pol_cie
+2,pl_nárna
+2,l_žařský
+2,pl_nový
+2,pel_něk
+2,sl_šet
+2,l_žařka
+2,upl_nulý
+2,vysl_šet
+2,sl_šet
+2,l_sý
+1,vesl_ce
+1,L_ška Bystrouška
+1,operní l_breto
+1,mal_ny
+1,sl_čný
+1,social_sta
+1,rašel_na
+1,l_ják
+1,skul_na
+1,dol_na
+1,kl_ma
+2,pel_ňkový
+1,l_stové
+1,l_šejník
+1,prol_stovat
+1,l_ják
+2,bl_štět se
+2,pol_kat
+1,pol_bek
+2,l_žařský
+1,pal_čatý
+2,L_sá hora
+1,l_kér
+1,l_pový
+1,pol_klinika
+1,pol_čka
+1,kompl_kace
+2,l_sina
+1,žurnal_sta
+1,publ_kum
+2,pl_šák
+1,l_šaj
+1,intel_gence
+1,ol_garchie
+1,l_chotit
+1,l_chý
+1,pospol_tost
+1,l_s
+1,výl_sek
+2,sl_šiny
+1,l_lie
+2,zal_kat
+1,republ_ka
+1,kl_kat
+1,kompl_kovaný
+1,katol_cký
+1,pol_tika
+2,rozpl_ne se

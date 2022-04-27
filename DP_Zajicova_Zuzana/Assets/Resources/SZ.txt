@@ -1,0 +1,70 @@
+1,_končit
+1,_kladatel
+1,_nést vejce
+2,v_křísit
+2,v_tahy
+1,_ledovat
+2,_neužití
+1,_jezdovka
+2,v_dát
+1,_plnit
+1,_razit
+1,_ložit
+2,v_tyčit 
+2,_kouška
+1,_padané listí
+2,_komplikovat
+2,v_kázat
+1,_choulit
+2,_paměti
+2,_pěv
+2,_krátit
+2,_tichl
+1,_rolovat
+2,v_chopit se
+1,_táhnout
+1,_tvořit
+2,vý_kum
+2,_kratka
+2,_působ
+1,_plynout
+1,_trávit
+2,_filmovat
+2,v_tlak
+2,_kušená
+2,_koumat
+1,_klidit
+2,_tráty a nálezy
+1,_točit
+1,_bírka
+2,_kušebna
+1,_padané
+1,_pustit
+1,_trávit prázdniny
+2,_kvalitnit
+2,_krátit
+2,_práva
+2,_blednout
+2,_působit
+2,_krotit
+2,_organizovat
+2,_krachovat
+2,_klamaný
+1,_bírat
+1,_hrnout
+1,_hromáždění
+2,_krátit
+2,_krotit
+1,_kamarádit
+2,_tracený
+1,_dílet
+2,_mapovat
+1,_hluk lidí
+2,_šednout
+1,_motat
+2,_červivělé
+1,_jednotit
+2,_krachovat
+1,_blížit
+2,_kamenělý
+1,_běratel
